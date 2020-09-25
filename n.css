@@ -1,0 +1,278 @@
+*{
+	padding :0;
+	margin: 0;
+}
+
+body{
+	background: white;
+	color: balck;
+	font-size: 120px;
+
+}
+.T {
+	position: absolute;
+	top: 5%;
+	left: 5%;
+    height: 30px;
+    width: 110px;
+    color: white;
+    background-color: #000000;
+}
+
+.U {
+	position: absolute;
+	top: 9.5%;
+	left: 3.2%;
+    height: 133px;
+    width: 30px;
+    color: white;
+    background-color: #000000;
+}
+
+.V {
+	position: absolute;
+	top: 9.5%;
+	left: 12%;
+    height: 133px;
+    width: 30px;
+    color: white;
+    background-color: #000000;
+}
+
+.W {
+	position: absolute;
+	top: 29%;
+	left: 5%;
+    height: 30px;
+    width: 110px;
+    color: white;
+    background-color: #000000;
+}
+
+.X {
+	position: absolute;
+	top: 33.5%;
+	left: 3.2%;
+    height: 133px;
+    width: 30px;
+    color: white;
+    background-color: #000000;
+}
+
+.Y {
+	position: absolute;
+	top: 33.5%;
+	left: 12%;
+    height: 133px;
+    width: 30px;
+    color: white;
+    background-color: #000000;
+}
+
+.Z {
+	position: absolute;
+	top: 53%;
+	left: 5%;
+    height: 30px;
+    width: 110px;
+    color: white;
+    background-color: #000000;
+}
+
+.T p{
+	position: relative;
+	top: -5%;
+	left: 43%;
+	font-size: 30px;
+    font-family: Franklin Gothic Medium;
+    align-content: center;
+}
+
+.U p{
+	position: relative;
+	top: 35%;
+	left: 13%;
+	font-size: 30px;
+    font-family: Franklin Gothic Medium;
+    align-content: center;
+}
+
+.V p{
+	position: relative;
+	top: 35%;
+	left: 25%;
+	font-size: 30px;
+    font-family: Franklin Gothic Medium;
+    align-content: center;
+}
+
+.W p{
+	position: relative;
+	top: -5%;
+	left: 38%;
+	font-size: 30px;
+    font-family: Franklin Gothic Medium;
+    align-content: center;
+}
+
+.X p{
+	position: relative;
+	top: 35%;
+	left: 13%;
+	font-size: 30px;
+    font-family: Franklin Gothic Medium;
+    align-content: center;
+}
+
+.Y p{
+	position: relative;
+	top: 35%;
+	left: 25%;
+	font-size: 30px;
+    font-family: Franklin Gothic Medium;
+    align-content: center;
+}
+
+.Z p{
+	position: relative;
+	top: -5%;
+	left: 38%;
+	font-size: 30px;
+    font-family: Franklin Gothic Medium;
+    align-content: center;
+}
+
+.ew p{
+	position: absolute;
+	top: 28%;
+	left: 15%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+    
+}
+
+.iw p{
+	position: absolute;
+	top: 33%;
+	left: 15%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+   
+}
+
+.ow p{
+	position: absolute;
+	top: 39%;
+	left: 15%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+    
+}
+
+.uw p{
+	position: absolute;
+	top: 39%;
+	left: 19%;
+	font-size: 10px;
+    font-family: Franklin Gothic Medium;
+    
+}
+
+.table1{
+	position: absolute;
+	bottom: 1%;
+	left: 24%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table2{
+	position: absolute;
+	bottom: 1%;
+	left: 29%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table3{
+	position: absolute;
+	bottom: 1%;
+	left: 34%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table4{
+	position: absolute;
+	bottom: 1%;
+	left: 39%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table5{
+	position: absolute;
+	bottom: 1%;
+	left: 44%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table6{
+	position: absolute;
+	bottom: 1%;
+	left: 49%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table7{
+	position: absolute;
+	bottom: 1%;
+	left: 54%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table8{
+	position: absolute;
+	bottom: 1%;
+	left: 59%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table9{
+	position: absolute;
+	bottom: 1%;
+	left: 64%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table10{
+	position: absolute;
+	bottom: 1%;
+	left: 69%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
+
+.table11{
+	position: absolute;
+	bottom: 1%;
+	left: 74%;
+	font-size: 20px;
+    font-family: Franklin Gothic Medium;
+
+}
